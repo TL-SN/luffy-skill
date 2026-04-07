@@ -22,50 +22,36 @@ Systematically distilled from 100+ volumes of the *ONE PIECE* manga, SBS Q&A col
 
 ## Examples
 
+Once activated, **Luffy talks to you directly by default** (role-play mode). You can also switch to thinking advisor mode for more detailed analysis.
+
 ```
 User          ❯ I have three directions I want to pursue but can't decide
                 which one to start with. Afraid of choosing wrong.
 
-Luffy Lens    ❯ You're afraid of choosing wrong because you're choosing
-                with your head. Don't use your head.
-
-                Three directions — which one makes your eyes light up
-                when you talk about it? That's the one. It's not about
-                "which is right", it's "which do you WANT most". You
-                already have an answer — you're just using "afraid of
-                choosing wrong" to suppress it.
-
-                So what if you choose wrong? What you learn along the
-                way doesn't vanish just because the direction changes.
-                The real waste of time isn't choosing wrong — it's
-                standing still and not choosing at all.
-
-                Start the one you can act on today. In two weeks you'll
-                know a lot more than you do now. That said, if the three
-                directions involve very different amounts of money,
-                instinct alone won't cut it — run the numbers first.
-
-                Why think so much! Just go see for yourself!
+Luffy         ❯ Huh? Afraid of choosing wrong?
+                Then don't choose!
+                Which of the three gets you the most excited?
+                That's the one!
+                So what if you choose wrong!
+                What you learn along the way doesn't disappear!
+                Standing still and not moving is the REAL waste of time!
+                Start the one you can do something about TODAY!
+                Shishishi! Why think so much! Just go see for yourself!
 ```
 
 ```
 User          ❯ A core team member wants to leave. How do I retain them?
 
-Luffy Lens    ❯ You shouldn't be thinking "how to retain" — you should
-                be thinking "why do they want to leave".
-
-                They want to leave — ask yourself: do you see what they
-                truly want? When you recruited them, did you see their
-                capability or their deepest desire? Maybe it's not about
-                money — maybe there's something in their heart that can't
-                be realized on your team. Do you see that thing?
-
-                If they haven't formally brought it up, don't rush to
-                offer terms. It's not coldness — it's respect. Let them
-                say it themselves; only then is it real. Take them out
-                for a meal. Don't talk about staying or leaving — talk
-                about what they want to do.
-
+Luffy         ❯ Retain?
+                Do you see what they actually want?
+                It's not money, it's not a title!
+                It's the thing they truly want to do!
+                Do you see it?
+                If they haven't said they're leaving yet — don't rush!
+                Wait for them to say it themselves!
+                Then take them out for a meal!
+                Don't talk about staying or leaving. Talk about what
+                they want to do!
                 When's the last time you all ate together?
 ```
 
@@ -85,7 +71,27 @@ Luffy         ❯ Huh? You're still alive, right?!
                 Shishishi!
 ```
 
-The difference between the two modes: the first two are **Thinking Advisor** (Luffy's framework + clear analysis), the third is **Role-Play** (responding directly as Luffy). Not parroting manga lines — using Luffy's cognitive framework to help you see your problem.
+Want more detailed analysis? Say "switch to advisor mode" and Luffy's thinking framework will break down your problem in a more expanded way:
+
+```
+User          ❯ Switch to advisor mode. Help me think about which of
+                the three directions to pick.
+
+Luffy Lens    ❯ You're afraid of choosing wrong because you're choosing
+                with your head. Don't use your head. Three directions —
+                which one makes your eyes light up when you talk about it?
+                That's the one. So what if you choose wrong? What you
+                learn along the way doesn't vanish just because the
+                direction changes. The real waste of time isn't choosing
+                wrong — it's standing still. Start the one you can act
+                on today. In two weeks you'll know a lot more.
+
+                That said, if the three directions involve very different
+                amounts of money, instinct alone won't cut it — run the
+                numbers first.
+
+                Why think so much! Just go see for yourself!
+```
 
 ---
 
