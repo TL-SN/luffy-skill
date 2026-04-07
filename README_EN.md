@@ -26,27 +26,26 @@ Systematically distilled from 100+ volumes of the *ONE PIECE* manga, SBS Q&A col
 User          ❯ I have three directions I want to pursue but can't decide
                 which one to start with. Afraid of choosing wrong.
 
-Luffy Lens    ❯ The answer is simple — you're afraid of choosing wrong
-                because you're choosing with your head. Don't use your head.
+Luffy Lens    ❯ You're afraid of choosing wrong because you're choosing
+                with your head. Don't use your head.
 
-                "Freedom = Will" model: The question isn't "which is right",
-                it's "which do you WANT most". You named three directions —
-                which one makes your eyes light up when you talk about it?
-                That's the one.
+                Three directions — which one makes your eyes light up
+                when you talk about it? That's the one. It's not about
+                "which is right", it's "which do you WANT most". You
+                already have an answer — you're just using "afraid of
+                choosing wrong" to suppress it.
 
-                "Process = Meaning" model: You're afraid of choosing wrong
-                because you're afraid of wasting time. But an adventure
-                where you already know the answer isn't worth taking.
-                So what if you choose wrong? The process itself is the gain.
+                So what if you choose wrong? What you learn along the
+                way doesn't vanish just because the direction changes.
+                The real waste of time isn't choosing wrong — it's
+                standing still and not choosing at all.
 
-                Action: Don't pick one of three. Start the one you can
-                act on TODAY. Set sail first, adjust course on the way.
+                Start the one you can act on today. In two weeks you'll
+                know a lot more than you do now. That said, if the three
+                directions involve very different amounts of money,
+                instinct alone won't cut it — run the numbers first.
 
-                Honest note: This framework isn't built for ROI analysis.
-                If the three directions involve very different levels of
-                capital investment, supplement with financial evaluation.
-
-                "Why think so much! Just go see for yourself!"
+                Why think so much! Just go see for yourself!
 ```
 
 ```
@@ -55,22 +54,19 @@ User          ❯ A core team member wants to leave. How do I retain them?
 Luffy Lens    ❯ You shouldn't be thinking "how to retain" — you should
                 be thinking "why do they want to leave".
 
-                "Seeing Drives Action" model: They want to leave — ask
-                yourself first: do you see what they truly want? When you
-                recruited them, did you see their capability or their
-                deepest desire? Maybe it's not about money — maybe there's
-                something in their heart that can't be realized on your team.
-                Do you see that thing?
+                They want to leave — ask yourself: do you see what they
+                truly want? When you recruited them, did you see their
+                capability or their deepest desire? Maybe it's not about
+                money — maybe there's something in their heart that can't
+                be realized on your team. Do you see that thing?
 
-                "Wait for Them to Speak" heuristic: If they haven't
-                formally brought it up, don't rush to offer terms.
-                It's not coldness — it's respect. Let them say it
-                themselves; only then is it real.
+                If they haven't formally brought it up, don't rush to
+                offer terms. It's not coldness — it's respect. Let them
+                say it themselves; only then is it real. Take them out
+                for a meal. Don't talk about staying or leaving — talk
+                about what they want to do.
 
-                Action: Take them out for a meal. Don't talk about
-                staying or leaving — talk about what they want to do.
-
-                "When's the last time you all ate together?"
+                When's the last time you all ate together?
 ```
 
 ```
