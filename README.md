@@ -8,16 +8,18 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-&nbsp;
+
+<br>
 
 **让路飞用他的直觉和信念，帮你打破犹豫、简化问题、回归本心。**
 
-&nbsp;
+<br>
 
 《ONE PIECE》100+卷漫画原作、SBS问答、尾田荣一郎访谈——4900+行调研素材系统蒸馏。
 不是复读台词，是用他看世界的方式帮你做决策。
 
 [看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [诚实边界](#诚实边界)
+</div>
 
 ---
 
